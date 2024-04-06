@@ -1,0 +1,50 @@
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\obj\Debug\OJT.Services.csproj.AssemblyReference.cache
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\obj\Debug\OJT.Services.csproj.CoreCompileInputs.cache
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\obj\Debug\SCM.Services.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\obj\Debug\SCM.Services.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\bin\Debug\SCM.Services.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\bin\Debug\SCM.Services.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\bin\Debug\SCM.DAO.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\bin\Debug\SCM.Entities.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\bin\Debug\SCM.DAO.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\bin\Debug\SCM.Entities.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.Services\obj\Debug\OJT.Services.csproj.CopyComplete
+D:\New folder\OJTFrame\OJT.Services\obj\Debug\OJT.Services.csproj.AssemblyReference.cache
+D:\New folder\OJTFrame\OJT.Services\obj\Debug\OJT.Services.csproj.CoreCompileInputs.cache
+D:\New folder\OJTFrame\OJT.Services\obj\Debug\OJT.Services.csproj.CopyComplete
+D:\New folder\OJTFrame\OJT.Services\bin\Debug\OJT.Services.dll
+D:\New folder\OJTFrame\OJT.Services\bin\Debug\OJT.Services.pdb
+D:\New folder\OJTFrame\OJT.Services\bin\Debug\OJT.DAO.dll
+D:\New folder\OJTFrame\OJT.Services\bin\Debug\OJT.Entities.dll
+D:\New folder\OJTFrame\OJT.Services\bin\Debug\OJT.DAO.pdb
+D:\New folder\OJTFrame\OJT.Services\bin\Debug\OJT.Entities.pdb
+D:\New folder\OJTFrame\OJT.Services\obj\Debug\OJT.Services.dll
+D:\New folder\OJTFrame\OJT.Services\obj\Debug\OJT.Services.pdb
+E:\bib\c#\OJTFrame\OJT.Services\bin\Debug\OJT.Services.dll
+E:\bib\c#\OJTFrame\OJT.Services\bin\Debug\OJT.Services.pdb
+E:\bib\c#\OJTFrame\OJT.Services\bin\Debug\OJT.DAO.dll
+E:\bib\c#\OJTFrame\OJT.Services\bin\Debug\OJT.Entities.dll
+E:\bib\c#\OJTFrame\OJT.Services\bin\Debug\OJT.DAO.pdb
+E:\bib\c#\OJTFrame\OJT.Services\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\OJTFrame\OJT.Services\obj\Debug\OJT.Services.csproj.AssemblyReference.cache
+E:\bib\c#\OJTFrame\OJT.Services\obj\Debug\OJT.Services.csproj.CoreCompileInputs.cache
+E:\bib\c#\OJTFrame\OJT.Services\obj\Debug\OJT.Services.csproj.CopyComplete
+E:\bib\c#\OJTFrame\OJT.Services\obj\Debug\OJT.Services.dll
+E:\bib\c#\OJTFrame\OJT.Services\obj\Debug\OJT.Services.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\OJT.Services.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\OJT.Services.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\OJT.DAO.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\OJT.Entities.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\OJT.DAO.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\obj\Debug\OJT.Services.csproj.AssemblyReference.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\obj\Debug\OJT.Services.csproj.CoreCompileInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\obj\Debug\OJT.Services.csproj.CopyComplete
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\obj\Debug\OJT.Services.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\obj\Debug\OJT.Services.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\EPPlus.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\EPPlus.Interfaces.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\EPPlus.System.Drawing.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\EPPlus.xml
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Services\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml

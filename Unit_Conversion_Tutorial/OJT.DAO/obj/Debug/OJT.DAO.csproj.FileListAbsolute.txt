@@ -1,0 +1,54 @@
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\SCM.DAO.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\SCM.DAO.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\SCM.Entities.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Security.AccessControl.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Security.Permissions.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Security.Principal.Windows.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\SCM.Entities.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Security.AccessControl.xml
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Security.Permissions.xml
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\bin\Debug\System.Security.Principal.Windows.xml
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\obj\Debug\OJT.DAO.csproj.AssemblyReference.cache
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\obj\Debug\OJT.DAO.csproj.CoreCompileInputs.cache
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\obj\Debug\OJT.DAO.csproj.CopyComplete
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\obj\Debug\SCM.DAO.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.DAO\obj\Debug\SCM.DAO.pdb
+D:\New folder\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.csproj.AssemblyReference.cache
+D:\New folder\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.csproj.CoreCompileInputs.cache
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\OJT.DAO.dll
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\OJT.DAO.pdb
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\OJT.Entities.dll
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\System.Security.AccessControl.dll
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\System.Security.Principal.Windows.dll
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\OJT.Entities.pdb
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder\OJTFrame\OJT.DAO\bin\Debug\System.Security.Permissions.xml
+D:\New folder\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.csproj.CopyComplete
+D:\New folder\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.dll
+D:\New folder\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.pdb
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\OJT.DAO.dll
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\OJT.DAO.pdb
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\OJT.Entities.dll
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\System.Security.AccessControl.dll
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\System.Security.Principal.Windows.dll
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\bib\c#\OJTFrame\OJT.DAO\bin\Debug\System.Security.Permissions.xml
+E:\bib\c#\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.csproj.AssemblyReference.cache
+E:\bib\c#\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.csproj.CoreCompileInputs.cache
+E:\bib\c#\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.csproj.CopyComplete
+E:\bib\c#\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.dll
+E:\bib\c#\OJTFrame\OJT.DAO\obj\Debug\OJT.DAO.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\bin\Debug\OJT.DAO.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\bin\Debug\OJT.DAO.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\bin\Debug\OJT.Entities.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\bin\Debug\System.Security.AccessControl.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\bin\Debug\System.Security.Principal.Windows.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\obj\Debug\OJT.DAO.csproj.AssemblyReference.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\obj\Debug\OJT.DAO.csproj.CoreCompileInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\obj\Debug\OJT.DAO.csproj.CopyComplete
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\obj\Debug\OJT.DAO.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.DAO\obj\Debug\OJT.DAO.pdb

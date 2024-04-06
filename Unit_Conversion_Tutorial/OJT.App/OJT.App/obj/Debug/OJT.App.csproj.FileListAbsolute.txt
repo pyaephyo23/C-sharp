@@ -1,0 +1,94 @@
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.exe.config
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.exe
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.pdb
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.AssemblyReference.cache
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.SuggestedBindingRedirects.cache
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Properties.Resources.resources
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.GenerateResource.cache
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.CoreCompileInputs.cache
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.exe
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.pdb
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\SCM.DAO.dll
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\SCM.Entities.dll
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\SCM.Services.dll
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\SCM.DAO.pdb
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\SCM.Entities.pdb
+D:\.Net\OJTFrame\OJT.App\OJT.App\bin\Debug\SCM.Services.pdb
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.CopyComplete
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployeeList.resources
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Menu.FrmMenu.resources
+D:\.Net\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployee.resources
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.AssemblyReference.cache
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.SuggestedBindingRedirects.cache
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Properties.Resources.resources
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployee.resources
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployeeList.resources
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Menu.FrmMenu.resources
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.GenerateResource.cache
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.CoreCompileInputs.cache
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.exe
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.pdb
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.exe.config
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.exe
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.pdb
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.DAO.dll
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Entities.dll
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Services.dll
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.DAO.pdb
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Entities.pdb
+D:\New folder\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Services.pdb
+D:\New folder\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.CopyComplete
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.exe.config
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.exe
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.App.pdb
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.DAO.dll
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Entities.dll
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Services.dll
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.DAO.pdb
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\bin\Debug\OJT.Services.pdb
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.AssemblyReference.cache
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.SuggestedBindingRedirects.cache
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Properties.Resources.resources
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployee.resources
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployeeList.resources
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Menu.FrmMenu.resources
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.GenerateResource.cache
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.CoreCompileInputs.cache
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.csproj.CopyComplete
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.exe
+E:\bib\c#\OJTFrame\OJT.App\OJT.App\obj\Debug\OJT.App.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.APP.csproj.AssemblyReference.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.APP.csproj.SuggestedBindingRedirects.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Product.UCProduct.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Properties.Resources.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Menu.frmHome.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Product.UCProductList.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.APP.csproj.GenerateResource.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.APP.csproj.CoreCompileInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.App.exe.config
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.App.exe
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.App.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.DAO.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.Entities.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.Services.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.DAO.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\OJT.Services.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.APP.csproj.CopyComplete
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.exe
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Units.UCUnits.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Units.UCUnitsListing.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Convert_Unit.ConvertUnit.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.UnitConversion.UCUnitConversion.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.UnitConversion.UCUnitConversionList.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\EPPlus.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\EPPlus.Interfaces.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\EPPlus.System.Drawing.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\EPPlus.xml
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployeeList.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.UCEmployee.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.App\OJT.App\obj\Debug\OJT.App.Views.Employee.frm_Township.resources

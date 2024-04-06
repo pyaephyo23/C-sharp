@@ -1,0 +1,12 @@
+D:\Training\SCMFrame\SCM.Entities\bin\Debug\SCM.Entities.dll
+D:\Training\SCMFrame\SCM.Entities\bin\Debug\SCM.Entities.pdb
+D:\Training\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.csproj.AssemblyReference.cache
+D:\Training\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.csproj.CoreCompileInputs.cache
+D:\Training\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.dll
+D:\Training\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.Entities\bin\Debug\SCM.Entities.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.Entities\bin\Debug\SCM.Entities.pdb
+D:\.Net\SCMFrame\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.csproj.AssemblyReference.cache
+D:\.Net\SCMFrame\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.csproj.CoreCompileInputs.cache
+D:\.Net\SCMFrame\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.dll
+D:\.Net\SCMFrame\SCMFrame\SCM.Entities\obj\Debug\SCM.Entities.pdb

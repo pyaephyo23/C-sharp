@@ -1,0 +1,18 @@
+D:\New folder\OJTFrame\OJT.Entities\bin\Debug\OJT.Entities.dll
+D:\New folder\OJTFrame\OJT.Entities\bin\Debug\OJT.Entities.pdb
+D:\New folder\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.csproj.AssemblyReference.cache
+D:\New folder\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.csproj.CoreCompileInputs.cache
+D:\New folder\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.dll
+D:\New folder\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.pdb
+E:\bib\c#\OJTFrame\OJT.Entities\bin\Debug\OJT.Entities.dll
+E:\bib\c#\OJTFrame\OJT.Entities\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.csproj.AssemblyReference.cache
+E:\bib\c#\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.csproj.CoreCompileInputs.cache
+E:\bib\c#\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.dll
+E:\bib\c#\OJTFrame\OJT.Entities\obj\Debug\OJT.Entities.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Entities\bin\Debug\OJT.Entities.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Entities\bin\Debug\OJT.Entities.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Entities\obj\Debug\OJT.Entities.csproj.AssemblyReference.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Entities\obj\Debug\OJT.Entities.csproj.CoreCompileInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Entities\obj\Debug\OJT.Entities.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Unit_Conversion_Tutorial\OJT.Entities\obj\Debug\OJT.Entities.pdb

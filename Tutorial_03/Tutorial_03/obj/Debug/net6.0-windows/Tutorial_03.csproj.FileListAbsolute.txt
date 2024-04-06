@@ -1,0 +1,41 @@
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.exe
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.deps.json
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.runtimeconfig.json
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.dll
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.pdb
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.AssemblyReference.cache
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.Tutorial_03.resources
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.GenerateResource.cache
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.GeneratedMSBuildEditorConfig.editorconfig
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.AssemblyInfoInputs.cache
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.AssemblyInfo.cs
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.CoreCompileInputs.cache
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.dll
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\refint\Tutorial_03.dll
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.pdb
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.genruntimeconfig.cache
+E:\bib\c#\New folder\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\ref\Tutorial_03.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.exe
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.deps.json
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.runtimeconfig.json
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\Tutorial_03.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.AssemblyReference.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.Tutorial_03.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.GenerateResource.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.GeneratedMSBuildEditorConfig.editorconfig
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.AssemblyInfoInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.AssemblyInfo.cs
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.CoreCompileInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\refint\Tutorial_03.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.genruntimeconfig.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\ref\Tutorial_03.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_03\Tutorial_03\obj\Debug\net6.0-windows\Tutorial_03.csproj.CopyComplete

@@ -1,0 +1,17 @@
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\bin\Debug\net6.0-windows\Tutorial_02.exe
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\bin\Debug\net6.0-windows\Tutorial_02.deps.json
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\bin\Debug\net6.0-windows\Tutorial_02.runtimeconfig.json
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\bin\Debug\net6.0-windows\Tutorial_02.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\bin\Debug\net6.0-windows\Tutorial_02.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.csproj.AssemblyReference.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.tutorial_02.resources
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.csproj.GenerateResource.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.AssemblyInfoInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.AssemblyInfo.cs
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.csproj.CoreCompileInputs.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\refint\Tutorial_02.dll
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.pdb
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\Tutorial_02.genruntimeconfig.cache
+E:\bib\c#\c-sharp-ojt-tutorials\Tutorial_02\Tutorial_02\obj\Debug\net6.0-windows\ref\Tutorial_02.dll
